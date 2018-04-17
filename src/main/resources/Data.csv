@@ -1,0 +1,1023 @@
+year, name, level,id,avgSalary,employees
+2014,"Management occupations",2,110000,87851.9,13907169
+2015,"Management occupations",2,110000,89842,14482769
+2014,"Management, business, & financial occupations",1,110000-130000,82469.1,20695927
+2015,"Management, business, & financial occupations",1,110000-130000,84231.9,21415130
+2014,"Management, business, science, & arts occupations",0,110000-290000,70827.7,52106585
+2015,"Management, business, science, & arts occupations",0,110000-290000,72398.9,53417813
+2014,"General & operations managers",3,111021,84467.2,820163
+2015,"General & operations managers",3,111021,85517.3,893042
+2014,"Chief executives & legislators",3,1110XX,153964,1129730
+2015,"Chief executives & legislators",3,1110XX,162724,1154041
+2014,"Advertising & promotions managers",3,112011,73508,51962
+2015,"Advertising & promotions managers",3,112011,76569.7,43016
+2014,"Marketing & sales managers",3,112020,96675.2,843208
+2015,"Marketing & sales managers",3,112020,98249.8,917775
+2014,"Public relations & fundraising managers",3,112031,86040.9,58005
+2015,"Public relations & fundraising managers",3,112031,81796.6,58724
+2014,"Administrative services managers",3,113011,71545.3,140634
+2015,"Administrative services managers",3,113011,68414.2,148039
+2014,"Computer & information systems managers",3,113021,106766,544636
+2015,"Computer & information systems managers",3,113021,109153,577986
+2014,"Financial managers",3,113031,95852.5,1110767
+2015,"Financial managers",3,113031,100194,1159394
+2014,"Industrial production managers",3,113051,85102.5,240008
+2015,"Industrial production managers",3,113051,83549.4,237648
+2014,"Purchasing managers",3,113061,82101.9,187147
+2015,"Purchasing managers",3,113061,80989.6,194471
+2014,"Transportation, storage, & distribution managers",3,113071,58310.9,222606
+2015,"Transportation, storage, & distribution managers",3,113071,58846.9,237496
+2014,"Compensation & benefits managers",3,113111,101856,15006
+2015,"Compensation & benefits managers",3,113111,83102.3,18940
+2014,"Human resources managers",3,113121,80673.4,370752
+2015,"Human resources managers",3,113121,82273.5,394237
+2014,"Training & development managers",3,113131,76409.1,58314
+2015,"Training & development managers",3,113131,75818.2,64140
+2014,"Farmers, ranchers, & other agricultural managers",3,119013,50668.9,255876
+2015,"Farmers, ranchers, & other agricultural managers",3,119013,52869.4,258716
+2014,"Construction managers",3,119021,77989.2,494048
+2015,"Construction managers",3,119021,79336.8,506818
+2014,"Education administrators",3,119030,69362.8,857286
+2015,"Education administrators",3,119030,69374.8,876961
+2014,"Architectural & engineering managers",3,119041,143592,145246
+2015,"Architectural & engineering managers",3,119041,145556,153419
+2014,"Food service managers",3,119051,42737.8,889006
+2015,"Food service managers",3,119051,41938.2,915937
+2014,"Gaming managers",3,119071,54181.7,16873
+2015,"Gaming managers",3,119071,53370.8,18496
+2014,"Lodging managers",3,119081,53295.5,110026
+2015,"Lodging managers",3,119081,53664.2,128773
+2014,"Medical & health services managers",3,119111,82604.1,622761
+2015,"Medical & health services managers",3,119111,82878.6,649847
+2014,"Natural sciences managers",3,119121,93228.5,16917
+2015,"Natural sciences managers",3,119121,98240.6,20298
+2014,"Property, real estate, & community association managers",3,119141,62354,497392
+2015,"Property, real estate, & community association managers",3,119141,64552.3,525894
+2014,"Social & community service managers",3,119151,60035.6,341892
+2015,"Social & community service managers",3,119151,59824.3,355696
+2014,"Emergency management directors",3,119161,61116.4,10399
+2015,"Emergency management directors",3,119161,65134.7,9459
+2014,"Miscellaneous managers",3,119XXX,90003.9,3856509
+2015,"Miscellaneous managers",3,119XXX,92300.6,3963506
+2014,"Business & financial operations occupations",2,130000,71442.3,6788758
+2015,"Business & financial operations occupations",2,130000,72511.5,6932361
+2014,"Agents & business managers of artists, performers, & athletes",3,131011,63775.2,38306
+2015,"Agents & business managers of artists, performers, & athletes",3,131011,72415.8,36268
+2014,"Buyers & purchasing agents, farm products",3,131021,65965.7,8782
+2015,"Buyers & purchasing agents, farm products",3,131021,54763.2,9350
+2014,"Wholesale & retail buyers, except farm products",3,131022,40859.8,196993
+2015,"Wholesale & retail buyers, except farm products",3,131022,40604.6,201237
+2014,"Purchasing agents, except wholesale, retail, & farm products",3,131023,59003,278317
+2015,"Purchasing agents, except wholesale, retail, & farm products",3,131023,58244.8,272445
+2014,"Claims adjusters, appraisers, examiners, & investigators",3,131030,53547,285236
+2015,"Claims adjusters, appraisers, examiners, & investigators",3,131030,55831.2,288332
+2014,"Compliance officers",3,131041,75223.6,211446
+2015,"Compliance officers",3,131041,73674.8,224356
+2014,"Cost estimators",3,131051,63795.2,130301
+2015,"Cost estimators",3,131051,64470.2,127013
+2014,"Human resources workers",3,131070,62978.6,763938
+2015,"Human resources workers",3,131070,63473.5,744662
+2014,"Logisticians",3,131081,56284.9,120033
+2015,"Logisticians",3,131081,55221.9,146581
+2014,"Management analysts",3,131111,90697.1,684660
+2015,"Management analysts",3,131111,91653.7,713414
+2014,"Meeting, convention, & event planners",3,131121,41998.9,116852
+2015,"Meeting, convention, & event planners",3,131121,42379.5,126562
+2014,"Fundraisers",3,131131,58817.7,92141
+2015,"Fundraisers",3,131131,57720.6,91129
+2014,"Compensation, benefits, & job analysis specialists",3,131141,52804.3,46519
+2015,"Compensation, benefits, & job analysis specialists",3,131141,56601.2,55959
+2014,"Training & development specialists",3,131151,55822.3,126788
+2015,"Training & development specialists",3,131151,58739.4,152401
+2014,"Market research analysts & marketing specialists",3,131161,76918.1,279150
+2015,"Market research analysts & marketing specialists",3,131161,78751.9,274022
+2014,"Business operations specialists, all other",3,131199,66179.4,282393
+2015,"Business operations specialists, all other",3,131199,72812.1,284496
+2014,"Accountants & auditors",3,132011,69145.3,1819292
+2015,"Accountants & auditors",3,132011,70258.3,1851576
+2014,"Appraisers & assessors of real estate",3,132021,56632.9,65206
+2015,"Appraisers & assessors of real estate",3,132021,58648.3,69198
+2014,"Budget analysts",3,132031,75586.8,47201
+2015,"Budget analysts",3,132031,80073,47282
+2014,"Credit analysts",3,132041,66102.1,29222
+2015,"Credit analysts",3,132041,67118.9,28268
+2014,"Financial analysts",3,132051,103663,202797
+2015,"Financial analysts",3,132051,106924,223533
+2014,"Personal financial advisors",3,132052,125046,330356
+2015,"Personal financial advisors",3,132052,125787,332094
+2014,"Insurance underwriters",3,132053,69009.6,109119
+2015,"Insurance underwriters",3,132053,68565.6,112034
+2014,"Financial examiners",3,132061,95736.6,13796
+2015,"Financial examiners",3,132061,94853.9,12997
+2014,"Credit counselors & loan officers",3,132070,71907.4,297997
+2015,"Credit counselors & loan officers",3,132070,71881,308006
+2014,"Tax examiners & collectors, & revenue agents",3,132081,57659.6,56928
+2015,"Tax examiners & collectors, & revenue agents",3,132081,54657.6,61327
+2014,"Tax preparers",3,132082,48292.4,92773
+2015,"Tax preparers",3,132082,49488.9,84875
+2014,"Other financial specialists",3,132099,91166.1,62216
+2015,"Other financial specialists",3,132099,90387.1,52944
+2014,"Computer & mathematical occupations",2,150000,79671.8,4030744
+2015,"Computer & mathematical occupations",2,150000,81187,4185116
+2014,"Computer, engineering, & science occupations",1,150000-190000,77661.2,7876321
+2015,"Computer, engineering, & science occupations",1,150000-190000,79853.8,8101695
+2014,"Computer & information research scientists",3,151111,101382,14178
+2015,"Computer & information research scientists",3,151111,83529.7,19557
+2014,"Computer systems analysts",3,151121,81465.3,529673
+2015,"Computer systems analysts",3,151121,80819.1,475777
+2014,"Information security analysts",3,151122,87706.9,59226
+2015,"Information security analysts",3,151122,90440.3,66741
+2014,"Computer programmers",3,151131,80673.6,430123
+2015,"Computer programmers",3,151131,82484,426464
+2014,"Web developers",3,151134,60224,168334
+2015,"Web developers",3,151134,58072.6,169358
+2014,"Software developers, applications & systems software",3,15113X,98602,1084346
+2015,"Software developers, applications & systems software",3,15113X,99143.6,1172770
+2014,"Database administrators",3,151141,74112.2,117238
+2015,"Database administrators",3,151141,78414.9,113854
+2014,"Network & computer systems administrators",3,151142,69042.9,211317
+2015,"Network & computer systems administrators",3,151142,70475.7,205756
+2014,"Computer network architects",3,151143,95684.3,104547
+2015,"Computer network architects",3,151143,96596.8,107120
+2014,"Computer support specialists",3,151150,53966.2,562292
+2015,"Computer support specialists",3,151150,59949.1,632724
+2014,"Other Computer Occupations",3,151199,70022,537293
+2015,"Other Computer Occupations",3,151199,71308.9,578563
+2014,"Actuaries",3,152011,127003,31118
+2015,"Actuaries",3,152011,128374,26914
+2014,"Operations research analysts",3,152031,78381.4,135022
+2015,"Operations research analysts",3,152031,81954,137878
+2014,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",3,1520XX,82847.5,46037
+2015,"Miscellaneous mathematical science occupations, including mathematicians & statisticians",3,1520XX,90093.8,51640
+2014,"Architecture & engineering occupations",2,170000,80493.5,2544717
+2015,"Architecture & engineering occupations",2,170000,83879.3,2592854
+2014,"Architects, except naval",3,171010,81950.3,157045
+2015,"Architects, except naval",3,171010,89317.1,155098
+2014,"Surveyors, cartographers, & photogrammetrists",3,171020,58408.7,38252
+2015,"Surveyors, cartographers, & photogrammetrists",3,171020,56080.2,31258
+2014,"Aerospace engineers",3,172011,100313,115362
+2015,"Aerospace engineers",3,172011,102563,118650
+2014,"Chemical engineers",3,172041,103542,57036
+2015,"Chemical engineers",3,172041,109748,66551
+2014,"Civil engineers",3,172051,84747.4,298856
+2015,"Civil engineers",3,172051,86538.6,310143
+2014,"Computer hardware engineers",3,172061,95714,52138
+2015,"Computer hardware engineers",3,172061,98691.2,52120
+2014,"Electrical & electronics engineers",3,172070,95203.1,202222
+2015,"Electrical & electronics engineers",3,172070,96877.9,212250
+2014,"Environmental engineers",3,172081,80846.5,26129
+2015,"Environmental engineers",3,172081,77927.8,30442
+2014,"Biomedical & agricultural engineers",3,1720XX,85516.6,16825
+2015,"Biomedical & agricultural engineers",3,1720XX,80555.8,16364
+2014,"Industrial engineers, including health & safety",3,172110,79333.9,177734
+2015,"Industrial engineers, including health & safety",3,172110,77332.8,197221
+2014,"Marine engineers & naval architects",3,172121,79826.5,13294
+2015,"Marine engineers & naval architects",3,172121,87735.8,12062
+2014,"Materials engineers",3,172131,82322.3,30453
+2015,"Materials engineers",3,172131,84780.4,42436
+2014,"Mechanical engineers",3,172141,79258.7,241884
+2015,"Mechanical engineers",3,172141,84106.8,248403
+2014,"Petroleum, mining & geological engineers, including mining safety engineers",3,1721XX,133053,40505
+2015,"Petroleum, mining & geological engineers, including mining safety engineers",3,1721XX,135251,48168
+2014,"Miscellaneous engineers, including nuclear engineers",3,1721YY,92575.6,508802
+2015,"Miscellaneous engineers, including nuclear engineers",3,1721YY,95825.5,535297
+2014,"Drafters",3,173010,49733.7,148120
+2015,"Drafters",3,173010,50545.5,149500
+2014,"Engineering technicians, except drafters",3,173020,53401,420060
+2015,"Engineering technicians, except drafters",3,173020,54527.2,366891
+2014,"Surveying & mapping technicians",3,173031,50340.6,68584
+2015,"Surveying & mapping technicians",3,173031,49492,61906
+2014,"Life, physical, & social science occupations",2,190000,66756.2,1232276
+2015,"Life, physical, & social science occupations",2,190000,68650.1,1261819
+2014,"Agricultural & food scientists",3,191010,69584.4,22467
+2015,"Agricultural & food scientists",3,191010,58196.6,21711
+2014,"Biological scientists",3,191020,64113.3,66626
+2015,"Biological scientists",3,191020,63638.3,73363
+2014,"Conservation scientists & foresters",3,191030,53739.5,17520
+2015,"Conservation scientists & foresters",3,191030,59625.8,19544
+2014,"Medical scientists, & life scientists, all other",3,1910XX,88246.7,137864
+2015,"Medical scientists, & life scientists, all other",3,1910XX,89889.3,151858
+2014,"Astronomers & physicists",3,192010,88095,11556
+2015,"Astronomers & physicists",3,192010,115694,8466
+2014,"Atmospheric & space scientists",3,192021,82131.4,11339
+2015,"Atmospheric & space scientists",3,192021,77766.5,11153
+2014,"Chemists & materials scientists",3,192030,75858.1,83937
+2015,"Chemists & materials scientists",3,192030,77570.2,86356
+2014,"Environmental scientists & geoscientists",3,192040,94512.4,68289
+2015,"Environmental scientists & geoscientists",3,192040,97068.6,68269
+2014,"Other Physical Scientists",3,192099,77491.1,200463
+2015,"Other Physical Scientists",3,192099,79721.1,217641
+2014,"Economists",3,193011,119430,22854
+2015,"Economists",3,193011,129207,21230
+2014,"Psychologists",3,193030,65345.6,147561
+2015,"Psychologists",3,193030,68872,152444
+2014,"Urban & regional planners",3,193051,73135.6,24129
+2015,"Urban & regional planners",3,193051,70035.8,21862
+2014,"Miscellaneous social scientists, including survey researchers & sociologists",3,1930XX,55202.2,55027
+2015,"Miscellaneous social scientists, including survey researchers & sociologists",3,1930XX,59706.8,33541
+2014,"Agricultural & food science technicians",3,194011,44199.4,37990
+2015,"Agricultural & food science technicians",3,194011,47650.3,36841
+2014,"Biological technicians",3,194021,45442.4,22699
+2015,"Biological technicians",3,194021,54970.4,21665
+2014,"Chemical technicians",3,194031,51211.3,69299
+2015,"Chemical technicians",3,194031,55232.6,70224
+2014,"Geological & petroleum technicians, & nuclear technicians",3,1940XX,70090.8,19095
+2015,"Geological & petroleum technicians, & nuclear technicians",3,1940XX,75412.3,21765
+2014,"Miscellaneous life, physical, & social science technicians, including social science research assistants",3,1940YY,38595.9,213561
+2015,"Miscellaneous life, physical, & social science technicians, including social science research assistants",3,1940YY,36227.9,223886
+2014,"Community & Social Service Occupations",2,210000,41197.8,2439486
+2015,"Community & Social Service Occupations",2,210000,41766.6,2509026
+2014,"Education, legal, community service, arts, & media occupations",1,210000-270000,50308.4,15088407
+2015,"Education, legal, community service, arts, & media occupations",1,210000-270000,51091.5,15279909
+2014,"Counselors",3,211010,40510.9,698413
+2015,"Counselors",3,211010,41972.8,764272
+2014,"Social workers",3,211020,43263.4,804543
+2015,"Social workers",3,211020,43180.3,830679
+2014,"Probation officers & correctional treatment specialists",3,211092,49785.2,94969
+2015,"Probation officers & correctional treatment specialists",3,211092,49392.6,88143
+2014,"Social & human service assistants",3,211093,34406.1,177080
+2015,"Social & human service assistants",3,211093,36294,182920
+2014,"Miscellaneous community & social service specialists, including health educators & community health workers",3,21109X,41653.6,95452
+2015,"Miscellaneous community & social service specialists, including health educators & community health workers",3,21109X,43552.7,91156
+2014,"Clergy",3,212011,42686.9,417363
+2015,"Clergy",3,212011,41716.6,411929
+2014,"Directors, religious activities & education",3,212021,35796.2,71008
+2015,"Directors, religious activities & education",3,212021,38595.6,71873
+2014,"Religious workers, all other",3,212099,27852.6,80658
+2015,"Religious workers, all other",3,212099,28289.3,68054
+2014,"Legal Occupations",2,230000,112777,1504267
+2015,"Legal Occupations",2,230000,114496,1540635
+2014,"Judicial law clerks",3,231012,50538.5,19635
+2015,"Judicial law clerks",3,231012,58423.5,20563
+2014,"Lawyers, & judges, magistrates, & other judicial workers",3,2310XX,149144,947362
+2015,"Lawyers, & judges, magistrates, & other judicial workers",3,2310XX,151638,968350
+2014,"Paralegals & legal assistants",3,232011,48994.6,387792
+2015,"Paralegals & legal assistants",3,232011,49536.2,393839
+2014,"Miscellaneous legal support workers",3,232090,55937.4,149478
+2015,"Miscellaneous legal support workers",3,232090,56038,157883
+2014,"Education, Training, & Library Occupations",2,250000,42100.2,8759380
+2015,"Education, Training, & Library Occupations",2,250000,42378,8793605
+2014,"Postsecondary teachers",3,251000,56701,1449272
+2015,"Postsecondary teachers",3,251000,57318.3,1509808
+2014,"Preschool & kindergarten teachers",3,252010,23084.5,553663
+2015,"Preschool & kindergarten teachers",3,252010,23378.7,575136
+2014,"Elementary & middle school teachers",3,252020,46374.8,3511147
+2015,"Elementary & middle school teachers",3,252020,46452.9,3497254
+2014,"Secondary school teachers",3,252030,49690,777819
+2015,"Secondary school teachers",3,252030,50239.6,797572
+2014,"Special education teachers",3,252050,43773.9,273580
+2015,"Special education teachers",3,252050,44596.4,258277
+2014,"Other teachers & instructors",3,253000,31497.6,774548
+2015,"Other teachers & instructors",3,253000,29761.9,768236
+2014,"Archivists, curators, & museum technicians",3,254010,45313.6,45246
+2015,"Archivists, curators, & museum technicians",3,254010,46165.5,45001
+2014,"Librarians",3,254021,42465.6,179589
+2015,"Librarians",3,254021,42922.6,166398
+2014,"Library technicians",3,254031,14749.8,47358
+2015,"Library technicians",3,254031,18978.9,50733
+2014,"Teacher assistants",3,259041,19436.1,1023100
+2015,"Teacher assistants",3,259041,20068,1017644
+2014,"Other education, training, & library workers",3,2590XX,45982,124058
+2015,"Other education, training, & library workers",3,2590XX,47940.7,107546
+2014,"Arts, design, entertainment, sports, & media occupations",2,270000,50373,2385274
+2015,"Arts, design, entertainment, sports, & media occupations",2,270000,52049.9,2436643
+2014,"Artists & related workers",3,271010,54310.3,106058
+2015,"Artists & related workers",3,271010,54611.3,123263
+2014,"Designers",3,271020,50913.5,706854
+2015,"Designers",3,271020,53318.5,732944
+2014,"Actors",3,272011,43064.3,28015
+2015,"Actors",3,272011,45256.9,32443
+2014,"Producers & directors",3,272012,76208.9,134407
+2015,"Producers & directors",3,272012,81629.2,136190
+2014,"Athletes, coaches, umpires, & related workers",3,272020,33181.9,279784
+2015,"Athletes, coaches, umpires, & related workers",3,272020,34717.2,256310
+2014,"Dancers & choreographers",3,272030,25561.7,14710
+2015,"Dancers & choreographers",3,272030,30100.6,17449
+2014,"Musicians, singers, & related workers",3,272040,33903.8,143156
+2015,"Musicians, singers, & related workers",3,272040,34436.4,141648
+2014,"Entertainers & performers, sports & related workers, all other",3,272099,41317.2,28495
+2015,"Entertainers & performers, sports & related workers, all other",3,272099,32329.1,29699
+2014,"Announcers",3,273010,47250.3,37432
+2015,"Announcers",3,273010,48626.2,41123
+2014,"News analysts, reporters & correspondents",3,273020,61779.8,74366
+2015,"News analysts, reporters & correspondents",3,273020,56966.8,73112
+2014,"Public relations specialists",3,273031,77147.8,117499
+2015,"Public relations specialists",3,273031,73138.8,127974
+2014,"Editors",3,273041,55015,158179
+2015,"Editors",3,273041,56813.2,164890
+2014,"Technical writers",3,273042,67974.1,53293
+2015,"Technical writers",3,273042,67200.7,54237
+2014,"Writers & authors",3,273043,59832.2,159958
+2015,"Writers & authors",3,273043,62385.9,159484
+2014,"Miscellaneous media & communication workers",3,273090,35230.1,81229
+2015,"Miscellaneous media & communication workers",3,273090,37100.4,90321
+2014,"Photographers",3,274021,33941.6,114628
+2015,"Photographers",3,274021,36254.6,104266
+2014,"Television, video, & motion picture camera operators & editors",3,274030,50294.2,43359
+2015,"Television, video, & motion picture camera operators & editors",3,274030,50266.2,52256
+2014,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",3,2740XX,48229.4,103852
+2015,"Broadcast & sound engineering technicians & radio operators, & media & communication equipment workers, all other",3,2740XX,49727.2,99034
+2014,"Healthcare practitioners & technical occupations",2,290000,72586,8445930
+2015,"Healthcare practitioners & technical occupations",2,290000,73764.6,8621079
+2014,"Chiropractors",3,291011,90075.8,41787
+2015,"Chiropractors",3,291011,80306.5,40533
+2014,"Dentists",3,291020,162761,136821
+2015,"Dentists",3,291020,165731,133941
+2014,"Dietitians & nutritionists",3,291031,44699.2,92692
+2015,"Dietitians & nutritionists",3,291031,46211.2,89223
+2014,"Optometrists",3,291041,104699,32232
+2015,"Optometrists",3,291041,106963,31744
+2014,"Pharmacists",3,291051,95928.3,283552
+2015,"Pharmacists",3,291051,98727.7,292844
+2014,"Physicians & surgeons",3,291060,207834,815351
+2015,"Physicians & surgeons",3,291060,216097,868476
+2014,"Physician assistants",3,291071,87402.3,100329
+2015,"Physician assistants",3,291071,88963.1,95891
+2014,"Podiatrists",3,291081,156073,6663
+2015,"Podiatrists",3,291081,149906,6545
+2014,"Occupational therapists",3,291122,60021.9,98754
+2015,"Occupational therapists",3,291122,59731,103613
+2014,"Physical therapists",3,291123,66462.8,221736
+2015,"Physical therapists",3,291123,67106.9,229251
+2014,"Radiation therapists",3,291124,74172.8,14317
+2015,"Radiation therapists",3,291124,70684.9,16789
+2014,"Recreational therapists",3,291125,40320.8,12199
+2015,"Recreational therapists",3,291125,38174.6,10509
+2014,"Respiratory therapists",3,291126,58294.3,113101
+2015,"Respiratory therapists",3,291126,55387.8,102432
+2014,"Speechlanguage pathologists",3,291127,57540.7,138500
+2015,"Speechlanguage pathologists",3,291127,56043.4,141671
+2014,"Other therapists, including exercise physiologists",3,29112X,44389.4,141653
+2015,"Other therapists, including exercise physiologists",3,29112X,42693.2,146782
+2014,"Veterinarians",3,291131,90928.6,71975
+2015,"Veterinarians",3,291131,97745.7,66831
+2014,"Registered nurses",3,291141,59947.7,3005295
+2015,"Registered nurses",3,291141,60864.6,3068286
+2014,"Nurse anesthetists",3,291151,152778,26195
+2015,"Nurse anesthetists",3,291151,155320,27801
+2014,"Audiologists",3,291181,72113.6,14474
+2015,"Audiologists",3,291181,66504.5,15260
+2014,"Health diagnosing & treating practitioners, all other",3,291199,50202.3,17066
+2015,"Health diagnosing & treating practitioners, all other",3,291199,53357.1,17582
+2014,"Nurse practitioners & nurse midwives",3,2911XX,89773.6,124172
+2015,"Nurse practitioners & nurse midwives",3,2911XX,91939,131646
+2014,"Clinical laboratory technologists & technicians",3,292010,45429.8,313086
+2015,"Clinical laboratory technologists & technicians",3,292010,45657.9,325018
+2014,"Dental hygienists",3,292021,49157,160941
+2015,"Dental hygienists",3,292021,48971.2,177580
+2014,"Diagnostic related technologists & technicians",3,292030,52694.5,336028
+2015,"Diagnostic related technologists & technicians",3,292030,54474.8,341904
+2014,"Emergency medical technicians & paramedics",3,292041,44299.9,208818
+2015,"Emergency medical technicians & paramedics",3,292041,42782.9,204933
+2014,"Health practitioner support technologists & technicians",3,292050,43762,625184
+2015,"Health practitioner support technologists & technicians",3,292050,30875.4,626286
+2014,"Licensed practical & licensed vocational nurses",3,292061,35372.3,845994
+2015,"Licensed practical & licensed vocational nurses",3,292061,36166.1,821575
+2014,"Medical records & health information technicians",3,292071,36926.2,163010
+2015,"Medical records & health information technicians",3,292071,39038.9,176010
+2014,"Opticians, dispensing",3,292081,37962.2,58250
+2015,"Opticians, dispensing",3,292081,38687.5,55471
+2014,"Miscellaneous health technologists & technicians",3,292090,47416.1,128809
+2015,"Miscellaneous health technologists & technicians",3,292090,45328.2,126348
+2014,"Other healthcare practitioners & technical Occupations",3,299000,56726.4,96946
+2015,"Other healthcare practitioners & technical Occupations",3,299000,57982.6,128304
+2014,"Healthcare Support Occupations",2,310000,24950.1,3421979
+2015,"Healthcare Support Occupations",2,310000,25283.4,3505490
+2014,"Service Occupations",0,310000-390000,23451.1,24900832
+2015,"Service Occupations",0,310000-390000,23808.5,25003215
+2014,"Nursing, psychiatric, & home health aides",3,311010,22937.1,2024215
+2015,"Nursing, psychiatric, & home health aides",3,311010,23284.6,2020137
+2014,"Occupational therapy assistants & aides",3,312010,37821.5,20007
+2015,"Occupational therapy assistants & aides",3,312010,39188.6,21658
+2014,"Physical therapist assistants & aides",3,312020,35822.4,79918
+2015,"Physical therapist assistants & aides",3,312020,35055.7,87209
+2014,"Massage therapists",3,319011,22887.2,127670
+2015,"Massage therapists",3,319011,22969.2,124905
+2014,"Dental assistants",3,319091,27577.4,284956
+2015,"Dental assistants",3,319091,28861.1,309135
+2014,"Medical assistants",3,319092,28594.1,511435
+2015,"Medical assistants",3,319092,28240.7,520309
+2014,"Medical transcriptionists",3,319094,27626.1,40446
+2015,"Medical transcriptionists",3,319094,26410.8,38924
+2014,"Pharmacy aides",3,319095,31478.4,39138
+2015,"Pharmacy aides",3,319095,28950.7,46539
+2014,"Veterinary assistants & laboratory animal caretakers",3,319096,23510.4,45202
+2015,"Veterinary assistants & laboratory animal caretakers",3,319096,22178.4,51108
+2014,"Phlebotomists",3,319097,28170.5,96595
+2015,"Phlebotomists",3,319097,27936.7,120464
+2014,"Healthcare support workers, all other, including medical equipment preparers",3,31909X,24882.5,152397
+2015,"Healthcare support workers, all other, including medical equipment preparers",3,31909X,26211.4,165102
+2014,"Protective service occupations",2,330000,47882.2,3305330
+2015,"Protective service occupations",2,330000,48236,3234188
+2014,"Firstline supervisors of correctional officers",3,331011,55755.7,57556
+2015,"Firstline supervisors of correctional officers",3,331011,57451.4,59605
+2014,"Firstline supervisors of police & detectives",3,331012,78408,107885
+2015,"Firstline supervisors of police & detectives",3,331012,81596.6,100681
+2014,"Firstline supervisors of fire fighting & prevention workers",3,331021,86985.1,45675
+2015,"Firstline supervisors of fire fighting & prevention workers",3,331021,88820,46474
+2014,"Firstline supervisors of protective service workers, all other",3,331099,57490.3,75870
+2015,"Firstline supervisors of protective service workers, all other",3,331099,56707,72568
+2014,"Firefighters",3,332011,63761.6,308750
+2015,"Firefighters",3,332011,65927.8,279292
+2014,"Fire inspectors",3,332020,55183.4,20586
+2015,"Fire inspectors",3,332020,55247.8,18802
+2014,"Bailiffs, correctional officers, & jailers",3,333010,46567.7,437504
+2015,"Bailiffs, correctional officers, & jailers",3,333010,46678.9,422596
+2014,"Detectives & criminal investigators",3,333021,75835.8,137269
+2015,"Detectives & criminal investigators",3,333021,76917.8,126765
+2014,"Police officers",3,333050,62142.3,753726
+2015,"Police officers",3,333050,63850.5,737263
+2014,"Miscellaneous law enforcement workers",3,3330XX,42229.1,15006
+2015,"Miscellaneous law enforcement workers",3,3330XX,37038.5,13877
+2014,"Animal control workers",3,339011,34496.7,11811
+2015,"Animal control workers",3,339011,42052.1,9423
+2014,"Private detectives & investigators",3,339021,57625.3,87427
+2015,"Private detectives & investigators",3,339021,57670.4,78239
+2014,"Security guards & gaming surveillance officers",3,339030,30114.5,996253
+2015,"Security guards & gaming surveillance officers",3,339030,30158.2,1010289
+2014,"Crossing guards",3,339091,16604.7,51650
+2015,"Crossing guards",3,339091,16640,65401
+2014,"Transportation security screeners",3,339093,42097.6,28913
+2015,"Transportation security screeners",3,339093,43688,33511
+2014,"Lifeguards & other recreational, & all other protective service workers",3,33909X,9819.24,169449
+2015,"Lifeguards & other recreational, & all other protective service workers",3,33909X,10509.7,159402
+2014,"Food Preparation & Serving Related Occupations",2,350000,16202.8,8608917
+2015,"Food Preparation & Serving Related Occupations",2,350000,16764.7,8703885
+2014,"Chefs & head cooks",3,351011,31005.1,400409
+2015,"Chefs & head cooks",3,351011,31318.9,416339
+2014,"Firstline supervisors of food preparation & serving workers",3,351012,24643.6,528886
+2015,"Firstline supervisors of food preparation & serving workers",3,351012,26865.8,533492
+2014,"Cooks",3,352010,16371.7,2327238
+2015,"Cooks",3,352010,16764,2342808
+2014,"Food preparation workers",3,352021,12513.6,954278
+2015,"Food preparation workers",3,352021,13199.3,1000494
+2014,"Bartenders",3,353011,22132.7,434534
+2015,"Bartenders",3,353011,23112.5,423293
+2014,"Combined food preparation & serving workers, including fast food",3,353021,12378.5,399155
+2015,"Combined food preparation & serving workers, including fast food",3,353021,13033,383865
+2014,"Counter attendants, cafeteria, food concession, & coffee shop",3,353022,8246.72,189355
+2015,"Counter attendants, cafeteria, food concession, & coffee shop",3,353022,8788.52,203698
+2014,"Waiters & waitresses",3,353031,15261.8,2196747
+2015,"Waiters & waitresses",3,353031,15814.7,2231715
+2014,"Food servers, nonrestaurant",3,353041,18185,182940
+2015,"Food servers, nonrestaurant",3,353041,17001.9,182412
+2014,"Dishwashers",3,359021,11307,323740
+2015,"Dishwashers",3,359021,11893.1,322743
+2014,"Hosts & hostesses, restaurant, lounge, & coffee shop",3,359031,8623.01,316954
+2015,"Hosts & hostesses, restaurant, lounge, & coffee shop",3,359031,8603.38,304354
+2014,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",3,3590XX,13057,354681
+2015,"Miscellaneous food preparation & serving related workers, including dining room & cafeteria attendants & bartender helpers",3,3590XX,12926.7,358672
+2014,"Building & Grounds Cleaning & Maintenance Occupations",2,370000,22647.1,5113262
+2015,"Building & Grounds Cleaning & Maintenance Occupations",2,370000,23034.3,4973448
+2014,"Firstline supervisors of housekeeping & janitorial workers",3,371011,38472.9,192564
+2015,"Firstline supervisors of housekeeping & janitorial workers",3,371011,38558.1,200581
+2014,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",3,371012,41139,111828
+2015,"Firstline supervisors of landscaping, lawn service, & groundskeeping workers",3,371012,43297.1,119678
+2014,"Maids & housekeeping cleaners",3,372012,17525.2,1214056
+2015,"Maids & housekeeping cleaners",3,372012,17861.1,1190248
+2014,"Janitors & building cleaners",3,37201X,23280.1,2458205
+2015,"Janitors & building cleaners",3,37201X,23379.8,2366164
+2014,"Pest control workers",3,372021,33987.1,69125
+2015,"Pest control workers",3,372021,34148.6,68412
+2014,"Grounds maintenance workers",3,373010,21488.2,1067484
+2015,"Grounds maintenance workers",3,373010,22101.7,1028365
+2014,"Personal Care & Service Occupations",2,390000,19099.6,4451344
+2015,"Personal Care & Service Occupations",2,390000,19662.4,4586204
+2014,"Firstline supervisors of gaming workers",3,391010,43065.6,19522
+2015,"Firstline supervisors of gaming workers",3,391010,40826.8,22523
+2014,"Firstline supervisors of personal service workers",3,391021,40374.1,66566
+2015,"Firstline supervisors of personal service workers",3,391021,38237.2,67707
+2014,"Animal trainers",3,392011,30924.7,28144
+2015,"Animal trainers",3,392011,28467.2,29041
+2014,"Nonfarm animal caretakers",3,392021,18712.5,175496
+2015,"Nonfarm animal caretakers",3,392021,19003.2,194030
+2014,"Gaming services workers",3,393010,33284,105570
+2015,"Gaming services workers",3,393010,35397.9,101495
+2014,"Motion picture projectionists",3,393021,18960.1,4058
+2015,"Motion picture projectionists",3,393021,25017.4,2792
+2014,"Ushers, lobby attendants, & ticket takers",3,393031,8651.08,48497
+2015,"Ushers, lobby attendants, & ticket takers",3,393031,9121.4,47962
+2014,"Miscellaneous entertainment attendants & related workers",3,393090,13509.9,201355
+2015,"Miscellaneous entertainment attendants & related workers",3,393090,13234.2,208971
+2014,"Morticians, undertakers, & funeral directors",3,394031,53813.1,37562
+2015,"Morticians, undertakers, & funeral directors",3,394031,55953.9,34427
+2014,"Embalmers & funeral attendants",3,3940XX,21607.7,13499
+2015,"Embalmers & funeral attendants",3,3940XX,24604.8,16729
+2014,"Barbers",3,395011,23610.5,73284
+2015,"Barbers",3,395011,21759.3,57285
+2014,"Hairdressers, hairstylists, & cosmetologists",3,395012,21934,587201
+2015,"Hairdressers, hairstylists, & cosmetologists",3,395012,22782.9,579050
+2014,"Miscellaneous personal appearance workers",3,395090,19656.2,256702
+2015,"Miscellaneous personal appearance workers",3,395090,20757.5,263236
+2014,"Baggage porters, bellhops, & concierges",3,396010,26653.8,88200
+2015,"Baggage porters, bellhops, & concierges",3,396010,29647.9,82506
+2014,"Tour & travel guides",3,397010,16271.8,48870
+2015,"Tour & travel guides",3,397010,18898.9,52391
+2014,"Childcare workers",3,399011,14254,940190
+2015,"Childcare workers",3,399011,14726.6,937495
+2014,"Personal care aides",3,399021,17635.8,1195385
+2015,"Personal care aides",3,399021,18368.7,1296712
+2014,"Recreation & fitness workers",3,399030,21435.2,385098
+2015,"Recreation & fitness workers",3,399030,21683.6,382685
+2014,"Residential advisors",3,399041,14052.9,87834
+2015,"Residential advisors",3,399041,14318.9,79677
+2014,"Personal care & service workers, all other ",3,399099,17198,88311
+2015,"Personal care & service workers, all other ",3,399099,19665.8,129490
+2014,"Sales & related occupations",1,410000,43372.6,14840356
+2015,"Sales & related occupations",1,410000,44481.4,14940100
+2014,"Sales & Office Occupations",0,410000-430000,37446.3,33835995
+2015,"Sales & Office Occupations",0,410000-430000,38168.3,34274821
+2014,"Firstline supervisors of retail sales workers",3,411011,46169.8,2809568
+2015,"Firstline supervisors of retail sales workers",3,411011,47118.2,2848227
+2014,"Firstline supervisors of nonretail sales workers",3,411012,80458.2,1107723
+2015,"Firstline supervisors of nonretail sales workers",3,411012,83282.5,1112212
+2014,"Cashiers",3,412010,13261.1,3314293
+2015,"Cashiers",3,412010,13547.3,3351701
+2014,"Counter & rental clerks",3,412021,24836.7,94526
+2015,"Counter & rental clerks",3,412021,25570.5,90137
+2014,"Parts salespersons",3,412022,37124.8,104052
+2015,"Parts salespersons",3,412022,34200.2,120934
+2014,"Retail salespersons",3,412031,27074.9,3390634
+2015,"Retail salespersons",3,412031,27442.1,3377468
+2014,"Advertising sales agents",3,413011,65682.4,166526
+2015,"Advertising sales agents",3,413011,70317.4,156631
+2014,"Insurance sales agents",3,413021,66643.4,490837
+2015,"Insurance sales agents",3,413021,65147.7,494407
+2014,"Securities, commodities, & financial services sales agents",3,413031,128574,227818
+2015,"Securities, commodities, & financial services sales agents",3,413031,137112,226093
+2014,"Travel agents",3,413041,38752,66987
+2015,"Travel agents",3,413041,36923,66073
+2014,"Sales representatives, services, all other",3,413099,73851.2,621589
+2015,"Sales representatives, services, all other",3,413099,77215.5,631785
+2014,"Sales representatives, wholesale & manufacturing",3,414010,74886.1,1349271
+2015,"Sales representatives, wholesale & manufacturing",3,414010,77200.3,1338703
+2014,"Models, demonstrators, & product promoters",3,419010,17754.8,58798
+2015,"Models, demonstrators, & product promoters",3,419010,20036.6,52244
+2014,"Real estate brokers & sales agents",3,419020,66130.5,558093
+2015,"Real estate brokers & sales agents",3,419020,69061.2,577490
+2014,"Sales engineers",3,419031,107157,34621
+2015,"Sales engineers",3,419031,109139,34530
+2014,"Telemarketers",3,419041,18904.3,78937
+2015,"Telemarketers",3,419041,21407,81060
+2014,"Doortodoor sales workers, news & street vendors, & related workers",3,419091,22129.4,91264
+2015,"Doortodoor sales workers, news & street vendors, & related workers",3,419091,22721.2,98681
+2014,"Other Sales Workers",3,419099,55322.2,274819
+2015,"Other Sales Workers",3,419099,55812.6,281724
+2014,"Office & Administrative Support Occupations",2,430000,32816.3,18995639
+2015,"Office & Administrative Support Occupations",2,430000,33290.1,19334721
+2014,"Firstline supervisors of office & administrative support workers",3,431011,53407.8,1305625
+2015,"Firstline supervisors of office & administrative support workers",3,431011,53295.1,1344364
+2014,"Switchboard operators, including answering service",3,432011,25728.8,29532
+2015,"Switchboard operators, including answering service",3,432011,27494.4,29361
+2014,"Telephone operators",3,432021,30127.4,38705
+2015,"Telephone operators",3,432021,26267.3,36982
+2014,"Communications equipment operators, all other",3,432099,42627.4,12364
+2015,"Communications equipment operators, all other",3,432099,51205.3,10213
+2014,"Bill & account collectors",3,433011,33605.8,170501
+2015,"Bill & account collectors",3,433011,33602.1,168124
+2014,"Billing & posting clerks",3,433021,32828.6,478017
+2015,"Billing & posting clerks",3,433021,34027.6,480035
+2014,"Bookkeeping, accounting, & auditing clerks",3,433031,35003.5,1144243
+2015,"Bookkeeping, accounting, & auditing clerks",3,433031,35270.1,1151220
+2014,"Gaming cage workers",3,433041,25465.9,9050
+2015,"Gaming cage workers",3,433041,27508.5,7011
+2014,"Payroll & timekeeping clerks",3,433051,38522.6,163135
+2015,"Payroll & timekeeping clerks",3,433051,40373.7,164306
+2014,"Procurement clerks",3,433061,60171.9,30742
+2015,"Procurement clerks",3,433061,58279.9,30317
+2014,"Tellers",3,433071,22786.9,364744
+2015,"Tellers",3,433071,23576.7,345709
+2014,"Other financial clerks",3,433099,65645.2,112530
+2015,"Other financial clerks",3,433099,69472.7,121484
+2014,"Brokerage clerks",3,434011,45817.2,7860
+2015,"Brokerage clerks",3,434011,49778.6,5438
+2014,"Court, municipal, & license clerks",3,434031,36772.7,70660
+2015,"Court, municipal, & license clerks",3,434031,37830.6,74739
+2014,"Credit authorizers, checkers, & clerks",3,434041,44261.7,42823
+2015,"Credit authorizers, checkers, & clerks",3,434041,44019.4,50702
+2014,"Customer service representatives",3,434051,29642.9,2657374
+2015,"Customer service representatives",3,434051,29728,2730292
+2014,"Eligibility interviewers, government programs",3,434061,43403.8,74062
+2015,"Eligibility interviewers, government programs",3,434061,41779.8,73802
+2014,"File clerks",3,434071,25815,278486
+2015,"File clerks",3,434071,26434.3,246838
+2014,"Hotel, motel, & resort desk clerks",3,434081,19295.6,144366
+2015,"Hotel, motel, & resort desk clerks",3,434081,19715.6,142442
+2014,"Interviewers, except eligibility & loan",3,434111,28210.6,129156
+2015,"Interviewers, except eligibility & loan",3,434111,28825.6,133655
+2014,"Library assistants, clerical",3,434121,16949.7,105488
+2015,"Library assistants, clerical",3,434121,16336.1,106204
+2014,"Loan interviewers & clerks",3,434131,44882.2,111491
+2015,"Loan interviewers & clerks",3,434131,42248.7,117749
+2014,"New accounts clerks",3,434141,38789.9,14628
+2015,"New accounts clerks",3,434141,50230.7,14997
+2014,"Human resources assistants, except payroll & timekeeping",3,434161,39228.1,63833
+2015,"Human resources assistants, except payroll & timekeeping",3,434161,37533.8,50385
+2014,"Receptionists & information clerks",3,434171,21939.7,1148200
+2015,"Receptionists & information clerks",3,434171,22558.1,1172499
+2014,"Reservation & transportation ticket agents & travel clerks",3,434181,36461.8,120862
+2015,"Reservation & transportation ticket agents & travel clerks",3,434181,35198,128701
+2014,"Information & record clerks, all other",3,434199,34674.9,100513
+2015,"Information & record clerks, all other",3,434199,35909.3,89399
+2014,"Correspondence clerks & order clerks",3,434XXX,30487.8,120471
+2015,"Correspondence clerks & order clerks",3,434XXX,31371.7,139357
+2014,"Cargo & freight agents",3,435011,41710.9,20247
+2015,"Cargo & freight agents",3,435011,38394.5,21501
+2014,"Couriers & messengers",3,435021,35580.4,194530
+2015,"Couriers & messengers",3,435021,34666.2,202711
+2014,"Dispatchers",3,435030,38356.8,290769
+2015,"Dispatchers",3,435030,39197.2,276129
+2014,"Meter readers, utilities",3,435041,35650.9,28356
+2015,"Meter readers, utilities",3,435041,42118.4,27074
+2014,"Postal service clerks",3,435051,49431.2,106370
+2015,"Postal service clerks",3,435051,49221.3,110677
+2014,"Postal service mail carriers",3,435052,48549.5,297881
+2015,"Postal service mail carriers",3,435052,48500.6,319578
+2014,"Postal service mail sorters, processors, & processing machine operators",3,435053,46115.8,64146
+2015,"Postal service mail sorters, processors, & processing machine operators",3,435053,44918.7,68148
+2014,"Production, planning, & expediting clerks",3,435061,47162.5,320740
+2015,"Production, planning, & expediting clerks",3,435061,46643.2,319527
+2014,"Shipping, receiving, & traffic clerks",3,435071,29131,609483
+2015,"Shipping, receiving, & traffic clerks",3,435071,29166.8,611758
+2014,"Stock clerks & order fillers",3,435081,21213.5,1597238
+2015,"Stock clerks & order fillers",3,435081,21645.9,1654544
+2014,"Weighers, measurers, checkers, & samplers, recordkeeping",3,435111,33446,81180
+2015,"Weighers, measurers, checkers, & samplers, recordkeeping",3,435111,35389.3,78875
+2014,"Secretaries & administrative assistants",3,436010,33160.2,3223525
+2015,"Secretaries & administrative assistants",3,436010,34228.7,3229257
+2014,"Computer operators",3,439011,41585.6,82809
+2015,"Computer operators",3,439011,41365.8,94570
+2014,"Data entry keyers",3,439021,28365.9,343003
+2015,"Data entry keyers",3,439021,28287.6,350715
+2014,"Word processors & typists",3,439022,29422.1,305520
+2015,"Word processors & typists",3,439022,30435.8,296520
+2014,"Insurance claims & policy processing clerks",3,439041,37765.9,365380
+2015,"Insurance claims & policy processing clerks",3,439041,38681.9,384771
+2014,"Mail clerks & mail machine operators, except postal service",3,439051,25100.7,81065
+2015,"Mail clerks & mail machine operators, except postal service",3,439051,24461.7,82520
+2014,"Office clerks, general",3,439061,28988.4,1258233
+2015,"Office clerks, general",3,439061,29237.9,1345853
+2014,"Office machine operators, except computer",3,439071,24689.7,30935
+2015,"Office machine operators, except computer",3,439071,24386,40553
+2014,"Proofreaders & copy markers",3,439081,29228,10537
+2015,"Proofreaders & copy markers",3,439081,26740.4,11002
+2014,"Statistical assistants",3,439111,40955.9,17434
+2015,"Statistical assistants",3,439111,49249.4,19361
+2014,"Miscellaneous office & administrative support workers, including desktop publishers",3,439XXX,37824.6,616797
+2015,"Miscellaneous office & administrative support workers, including desktop publishers",3,439XXX,38852.1,622752
+2014,"Farming, Fishing, & Forestry Occupations",2,450000,22473.8,1029697
+2015,"Farming, Fishing, & Forestry Occupations",2,450000,23651.6,1024305
+2014,"Natural resources, construction, & maintenance occupations",0,450000-490000,41136.7,11854937
+2015,"Natural resources, construction, & maintenance occupations",0,450000-490000,42234.4,12221858
+2014,"Firstline supervisors of farming, fishing, & forestry workers",3,451011,42976.5,49494
+2015,"Firstline supervisors of farming, fishing, & forestry workers",3,451011,41631,55308
+2014,"Agricultural inspectors",3,452011,47516.1,12280
+2015,"Agricultural inspectors",3,452011,45403.6,14066
+2014,"Graders & sorters, agricultural products",3,452041,17772.3,59068
+2015,"Graders & sorters, agricultural products",3,452041,19963,51701
+2014,"Miscellaneous agricultural workers, including animal breeders",3,4520XX,20236.2,820549
+2015,"Miscellaneous agricultural workers, including animal breeders",3,4520XX,21283.5,827484
+2014,"Fishing & hunting workers",3,453000,34472.1,21560
+2015,"Fishing & hunting workers",3,453000,40958.2,18429
+2014,"Forest & conservation workers",3,454011,27423.3,15395
+2015,"Forest & conservation workers",3,454011,32458,12188
+2014,"Logging workers",3,454020,31365.9,51351
+2015,"Logging workers",3,454020,33037.1,45129
+2014,"Construction & Extraction Occupations",1,470000,41409.9,6415593
+2015,"Construction & Extraction Occupations",1,470000,42583.8,6646763
+2014,"Firstline supervisors of construction trades & extraction workers",3,471011,65612,649288
+2015,"Firstline supervisors of construction trades & extraction workers",3,471011,66073.4,689245
+2014,"Boilermakers",3,472011,53835.9,12887
+2015,"Boilermakers",3,472011,57693.5,15826
+2014,"Carpenters",3,472031,34494.5,892935
+2015,"Carpenters",3,472031,36319.5,932667
+2014,"Carpet, floor, & tile installers & finishers",3,472040,30990.6,117740
+2015,"Carpet, floor, & tile installers & finishers",3,472040,33822.3,116180
+2014,"Cement masons, concrete finishers, & terrazzo workers",3,472050,33234.7,47672
+2015,"Cement masons, concrete finishers, & terrazzo workers",3,472050,36149.4,51477
+2014,"Construction laborers",3,472061,32099.2,1430812
+2015,"Construction laborers",3,472061,33000.5,1480029
+2014,"Paving, surfacing, & tamping equipment operators",3,472071,40059.8,11554
+2015,"Paving, surfacing, & tamping equipment operators",3,472071,31322.4,12764
+2014,"Construction equipment operators except paving, surfacing, & tamping equipment operators",3,47207X,48369.5,324128
+2015,"Construction equipment operators except paving, surfacing, & tamping equipment operators",3,47207X,48529.9,325949
+2014,"Drywall installers, ceiling tile installers, & tapers",3,472080,30927.7,120554
+2015,"Drywall installers, ceiling tile installers, & tapers",3,472080,31311.6,125906
+2014,"Electricians",3,472111,49558.2,696561
+2015,"Electricians",3,472111,51865.4,748837
+2014,"Glaziers",3,472121,38269.4,39912
+2015,"Glaziers",3,472121,40167.4,35386
+2014,"Insulation workers",3,472130,42505.9,43467
+2015,"Insulation workers",3,472130,38027.1,39536
+2014,"Painters & paperhangers",3,472140,29542.6,436500
+2015,"Painters & paperhangers",3,472140,29398.9,447309
+2014,"Pipelayers, plumbers, pipefitters, & steamfitters",3,472150,45805.2,479203
+2015,"Pipelayers, plumbers, pipefitters, & steamfitters",3,472150,47051.9,503410
+2014,"Plasterers & stucco masons",3,472161,31631.1,24363
+2015,"Plasterers & stucco masons",3,472161,30285.5,31664
+2014,"Roofers",3,472181,28428.7,173783
+2015,"Roofers",3,472181,29813.4,184530
+2014,"Sheet metal workers",3,472211,40420,123047
+2015,"Sheet metal workers",3,472211,42402.5,121544
+2014,"Structural iron & steel workers",3,472221,45152.8,59826
+2015,"Structural iron & steel workers",3,472221,47126.4,56656
+2014,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers",3,472XXX,33152.7,123181
+2015,"Brickmasons, blockmasons, stonemasons, & reinforcing iron & rebar workers",3,472XXX,36047.6,119933
+2014,"Helpers, construction trades",3,473010,24833.5,50817
+2015,"Helpers, construction trades",3,473010,27119.2,44303
+2014,"Construction & building inspectors",3,474011,52678.8,79002
+2015,"Construction & building inspectors",3,474011,52952.3,83443
+2014,"Elevator installers & repairers",3,474021,89569.9,21439
+2015,"Elevator installers & repairers",3,474021,77362.5,24215
+2014,"Fence erectors",3,474031,26904.1,26468
+2015,"Fence erectors",3,474031,27312.4,22863
+2014,"Hazardous materials removal workers",3,474041,42325.6,30395
+2015,"Hazardous materials removal workers",3,474041,41025,32264
+2014,"Highway maintenance workers",3,474051,38070.9,94176
+2015,"Highway maintenance workers",3,474051,39700.7,109162
+2014,"Railtrack laying & maintenance equipment operators",3,474061,49232.5,12400
+2015,"Railtrack laying & maintenance equipment operators",3,474061,54726.2,15490
+2014,"Earth drillers, except oil & gas",3,475021,55781.1,27435
+2015,"Earth drillers, except oil & gas",3,475021,60721.4,24745
+2014,"Explosives workers, ordnance handling experts, & blasters",3,475031,43357.6,19851
+2015,"Explosives workers, ordnance handling experts, & blasters",3,475031,45147.2,16138
+2014,"Mining machine operators",3,475040,62750.3,66755
+2015,"Mining machine operators",3,475040,65180.8,64583
+2014,"Miscellaneous extraction workers, including roof bolters & helpers",3,4750XX,57069,86466
+2015,"Miscellaneous extraction workers, including roof bolters & helpers",3,4750XX,60643.4,69022
+2014,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",3,4750YY,73235.7,52587
+2015,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",3,4750YY,82394.4,39211
+2014,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",3,47XXXX,35361.5,40389
+2015,"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers & sewer pipe cleaners",3,47XXXX,35798.8,62476
+2014,"Installation, maintenance, & repair occupations",1,490000,45097.2,4409647
+2015,"Installation, maintenance, & repair occupations",1,490000,45906.7,4550790
+2014,"Firstline supervisors of mechanics, installers, & repairers",3,491011,62229.6,271445
+2015,"Firstline supervisors of mechanics, installers, & repairers",3,491011,61365.8,273494
+2014,"Computer, automated teller, & office machine repairers",3,492011,42607,182173
+2015,"Computer, automated teller, & office machine repairers",3,492011,43235.1,191987
+2014,"Radio & telecommunications equipment installers & repairers",3,492020,54725.2,160754
+2015,"Radio & telecommunications equipment installers & repairers",3,492020,50866.3,164466
+2014,"Avionics technicians",3,492091,51010.5,22427
+2015,"Avionics technicians",3,492091,45536.8,25516
+2014,"Electric motor, power tool, & related repairers",3,492092,46959.6,23055
+2015,"Electric motor, power tool, & related repairers",3,492092,45897.1,23801
+2014,"Electronic equipment installers & repairers, motor vehicles",3,492096,46509.5,11984
+2015,"Electronic equipment installers & repairers, motor vehicles",3,492096,55161.9,10162
+2014,"Electronic home entertainment equipment installers & repairers",3,492097,38685.9,36716
+2015,"Electronic home entertainment equipment installers & repairers",3,492097,39993.9,35386
+2014,"Security & fire alarm systems installers",3,492098,43865.8,49708
+2015,"Security & fire alarm systems installers",3,492098,42764.7,57831
+2014,"Electrical & electronics repairers, transportation equipment, & industrial & utility",3,49209X,51705.7,20452
+2015,"Electrical & electronics repairers, transportation equipment, & industrial & utility",3,49209X,52569.7,19399
+2014,"Aircraft mechanics & service technicians",3,493011,52855,162053
+2015,"Aircraft mechanics & service technicians",3,493011,53598.3,190699
+2014,"Automotive body & related repairers",3,493021,38543.7,124933
+2015,"Automotive body & related repairers",3,493021,41531.8,127928
+2014,"Automotive glass installers & repairers",3,493022,32415,14582
+2015,"Automotive glass installers & repairers",3,493022,35040.8,15597
+2014,"Automotive service technicians & mechanics",3,493023,36880.8,758730
+2015,"Automotive service technicians & mechanics",3,493023,38367,740508
+2014,"Bus & truck mechanics & diesel engine specialists",3,493031,43847.9,276084
+2015,"Bus & truck mechanics & diesel engine specialists",3,493031,43641.3,305405
+2014,"Heavy vehicle & mobile equipment service technicians & mechanics",3,493040,51254.3,204121
+2015,"Heavy vehicle & mobile equipment service technicians & mechanics",3,493040,52122.8,197279
+2014,"Small engine mechanics",3,493050,33298.4,42619
+2015,"Small engine mechanics",3,493050,31859.2,42315
+2014,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",3,493090,24940.4,74749
+2015,"Miscellaneous vehicle & mobile equipment mechanics, installers, & repairers",3,493090,29799.2,76479
+2014,"Control & valve installers & repairers",3,499010,53407.8,17007
+2015,"Control & valve installers & repairers",3,499010,58741.2,19625
+2014,"Heating, air conditioning, & refrigeration mechanics & installers",3,499021,42928.2,316187
+2015,"Heating, air conditioning, & refrigeration mechanics & installers",3,499021,44178.2,347439
+2014,"Home appliance repairers",3,499031,35165.1,29992
+2015,"Home appliance repairers",3,499031,41879.6,30209
+2014,"Maintenance workers, machinery",3,499043,45936.1,31050
+2015,"Maintenance workers, machinery",3,499043,50628.8,34402
+2014,"Millwrights",3,499044,59715.1,44421
+2015,"Millwrights",3,499044,59267.4,45066
+2014,"Industrial & refractory machinery mechanics",3,49904X,49357.7,366864
+2015,"Industrial & refractory machinery mechanics",3,49904X,49917.2,397550
+2014,"Electrical powerline installers & repairers",3,499051,69264.2,108834
+2015,"Electrical powerline installers & repairers",3,499051,73257.7,114016
+2014,"Telecommunications line installers & repairers",3,499052,48736.2,132501
+2015,"Telecommunications line installers & repairers",3,499052,50293.1,149854
+2014,"Precision instrument & equipment repairers",3,499060,49686.5,50740
+2015,"Precision instrument & equipment repairers",3,499060,50049.6,58131
+2014,"Maintenance & repair workers, general",3,499071,42741.4,546124
+2015,"Maintenance & repair workers, general",3,499071,42441.4,502525
+2014,"Coin, vending, & amusement machine servicers & repairers",3,499091,33386,34922
+2015,"Coin, vending, & amusement machine servicers & repairers",3,499091,31482.8,30579
+2014,"Locksmiths & safe repairers",3,499094,47288.9,19548
+2015,"Locksmiths & safe repairers",3,499094,41325.6,19493
+2014,"Riggers",3,499096,40780.2,12927
+2015,"Riggers",3,499096,52807.6,10518
+2014,"Helpersinstallation, maintenance, & repair workers ",3,499098,21141.8,24677
+2015,"Helpersinstallation, maintenance, & repair workers ",3,499098,23537.2,22460
+2014,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",3,4990XX,40297.1,237268
+2015,"Miscellaneous installation, maintenance, & repair workers, including wind turbine service technicians",3,4990XX,40661.7,270671
+2014,"Production Occupations",2,510000,36829.9,8639292
+2015,"Production Occupations",2,510000,37784.8,8739799
+2014,"Production, Transportation, & Material Moving Occupations",0,510000-530000,35338,17629802
+2015,"Production, Transportation, & Material Moving Occupations",0,510000-530000,36213.5,17960445
+2014,"Firstline supervisors of production & operating workers",3,511011,57588.7,875498
+2015,"Firstline supervisors of production & operating workers",3,511011,58936.9,874163
+2014,"Aircraft structure, surfaces, rigging, & systems assemblers",3,512011,42672.6,5980
+2015,"Aircraft structure, surfaces, rigging, & systems assemblers",3,512011,40575.4,7975
+2014,"Electrical, electronics, & electromechanical assemblers",3,512020,28405.8,126553
+2015,"Electrical, electronics, & electromechanical assemblers",3,512020,32129.2,134623
+2014,"Engine & other machine assemblers",3,512031,36476.6,15598
+2015,"Engine & other machine assemblers",3,512031,39901.5,12087
+2014,"Structural metal fabricators & fitters",3,512041,38808.1,28475
+2015,"Structural metal fabricators & fitters",3,512041,38881.6,30140
+2014,"Miscellaneous assemblers & fabricators",3,512090,30145.9,1006737
+2015,"Miscellaneous assemblers & fabricators",3,512090,31367.7,1039916
+2014,"Bakers",3,513011,21467.4,221764
+2015,"Bakers",3,513011,21689.6,226713
+2014,"Butchers & other meat, poultry, & fish processing workers",3,513020,27688.1,256826
+2015,"Butchers & other meat, poultry, & fish processing workers",3,513020,28367.8,258028
+2014,"Food & tobacco roasting, baking, & drying machine operators & tenders",3,513091,27941.2,8092
+2015,"Food & tobacco roasting, baking, & drying machine operators & tenders",3,513091,30855.1,9551
+2014,"Food batchmakers",3,513092,24376.4,86200
+2015,"Food batchmakers",3,513092,23075.5,92762
+2014,"Food cooking machine operators & tenders",3,513093,22634.6,8110
+2015,"Food cooking machine operators & tenders",3,513093,19676.1,8471
+2014,"Food processing workers, all other",3,513099,31738.1,126209
+2015,"Food processing workers, all other",3,513099,31697.5,131206
+2014,"Computer control programmers & operators",3,514010,45523.4,81833
+2015,"Computer control programmers & operators",3,514010,44803.6,91766
+2014,"Extruding & drawing machine setters, operators, & tenders, metal & plastic",3,514021,38661.5,11298
+2015,"Extruding & drawing machine setters, operators, & tenders, metal & plastic",3,514021,36694.3,13094
+2014,"Forging machine setters, operators, & tenders, metal & plastic",3,514022,39242.4,8141
+2015,"Forging machine setters, operators, & tenders, metal & plastic",3,514022,40400.9,8007
+2014,"Rolling machine setters, operators, & tenders, metal & plastic",3,514023,43186.4,8949
+2015,"Rolling machine setters, operators, & tenders, metal & plastic",3,514023,45062.9,8653
+2014,"Machine tool cutting setters, operators, & tenders, metal & plastic",3,514030,33038.1,150282
+2015,"Machine tool cutting setters, operators, & tenders, metal & plastic",3,514030,33898.5,146679
+2014,"Machinists",3,514041,45711.7,368394
+2015,"Machinists",3,514041,45281.3,346067
+2014,"Metal furnace operators, tenders, pourers, & casters",3,514050,42078.5,27217
+2015,"Metal furnace operators, tenders, pourers, & casters",3,514050,43130.5,23114
+2014,"Model makers, patternmakers, & molding machine setters, metal & plastic",3,5140XX,36723.8,41313
+2015,"Model makers, patternmakers, & molding machine setters, metal & plastic",3,5140XX,38086.7,47782
+2014,"Tool & die makers",3,514111,54089.8,56312
+2015,"Tool & die makers",3,514111,54373.7,55737
+2014,"Welding, soldering, & brazing workers",3,514120,40033.1,597977
+2015,"Welding, soldering, & brazing workers",3,514120,41094.7,607908
+2014,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",3,514XXX,34724.2,413797
+2015,"Miscellaneous metal workers & plastic workers, including multiple machine tool setters",3,514XXX,35655.8,426881
+2014,"Prepress technicians & workers",3,515111,40163.7,33050
+2015,"Prepress technicians & workers",3,515111,31692.2,23842
+2014,"Printing press operators",3,515112,34779.9,176918
+2015,"Printing press operators",3,515112,34609.7,177687
+2014,"Print binding & finishing workers",3,515113,27298.1,18922
+2015,"Print binding & finishing workers",3,515113,28320.4,22282
+2014,"Laundry & drycleaning workers",3,516011,20366.8,195425
+2015,"Laundry & drycleaning workers",3,516011,20703.5,175858
+2014,"Pressers, textile, garment, & related materials",3,516021,19795.7,46033
+2015,"Pressers, textile, garment, & related materials",3,516021,19780.8,41273
+2014,"Sewing machine operators",3,516031,22487,179321
+2015,"Sewing machine operators",3,516031,21885.1,177042
+2014,"Shoe & leather workers",3,516040,25710,11520
+2015,"Shoe & leather workers",3,516040,25819.2,9341
+2014,"Tailors, dressmakers, & sewers",3,516050,26159.7,55749
+2015,"Tailors, dressmakers, & sewers",3,516050,27171.7,51271
+2014,"Textile knitting & weaving machine setters, operators, & tenders",3,516063,31517.6,5835
+2015,"Textile knitting & weaving machine setters, operators, & tenders",3,516063,27112.5,7476
+2014,"Textile winding, twisting, & drawing out machine setters, operators, & tenders",3,516064,27688.7,12597
+2015,"Textile winding, twisting, & drawing out machine setters, operators, & tenders",3,516064,25038,12421
+2014,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders",3,51606X,24909.4,11854
+2015,"Textile bleaching & dyeing, & cutting machine setters, operators, & tenders",3,51606X,25064.9,11403
+2014,"Upholsterers",3,516093,29633.4,24576
+2015,"Upholsterers",3,516093,31229.5,24631
+2014,"Miscellaneous textile, apparel, & furnishings workers except upholsterers",3,51609X,32487.1,18603
+2015,"Miscellaneous textile, apparel, & furnishings workers except upholsterers",3,51609X,31041.4,17255
+2014,"Cabinetmakers & bench carpenters",3,517011,33112.7,45683
+2015,"Cabinetmakers & bench carpenters",3,517011,31565.7,39086
+2014,"Furniture finishers",3,517021,29048.5,10541
+2015,"Furniture finishers",3,517021,29072.6,10718
+2014,"Sawing machine setters, operators, & tenders, wood",3,517041,26354.4,33043
+2015,"Sawing machine setters, operators, & tenders, wood",3,517041,26484.6,32055
+2014,"Woodworking machine setters, operators, & tenders, except sawing",3,517042,25333.4,19119
+2015,"Woodworking machine setters, operators, & tenders, except sawing",3,517042,25001,15020
+2014,"Miscellaneous woodworkers, including model makers & patternmakers",3,5170XX,32023.8,21546
+2015,"Miscellaneous woodworkers, including model makers & patternmakers",3,5170XX,32561,25313
+2014,"Power plant operators, distributors, & dispatchers",3,518010,83188.5,45652
+2015,"Power plant operators, distributors, & dispatchers",3,518010,89249.5,47602
+2014,"Stationary engineers & boiler operators",3,518021,59456.5,80363
+2015,"Stationary engineers & boiler operators",3,518021,59850.7,96950
+2014,"Water & wastewater treatment plant & system operators",3,518031,47887.4,88790
+2015,"Water & wastewater treatment plant & system operators",3,518031,50637.5,84042
+2014,"Miscellaneous plant & system operators",3,518090,65387.6,41778
+2015,"Miscellaneous plant & system operators",3,518090,63569.3,46350
+2014,"Chemical processing machine setters, operators, & tenders",3,519010,52828.6,55265
+2015,"Chemical processing machine setters, operators, & tenders",3,519010,51997.8,52897
+2014,"Crushing, grinding, polishing, mixing, & blending workers",3,519020,36988,88714
+2015,"Crushing, grinding, polishing, mixing, & blending workers",3,519020,38369.8,92609
+2014,"Cutting workers",3,519030,25513.9,67988
+2015,"Cutting workers",3,519030,28127.9,67078
+2014,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",3,519041,34769.8,31971
+2015,"Extruding, forming, pressing, & compacting machine setters, operators, & tenders",3,519041,37818.4,25165
+2014,"Furnace, kiln, oven, drier, & kettle operators & tenders",3,519051,42658.2,11210
+2015,"Furnace, kiln, oven, drier, & kettle operators & tenders",3,519051,37618.2,14159
+2014,"Inspectors, testers, sorters, samplers, & weighers",3,519061,40965.1,791738
+2015,"Inspectors, testers, sorters, samplers, & weighers",3,519061,41979.4,790246
+2014,"Jewelers & precious stone & metal workers",3,519071,34495.5,31339
+2015,"Jewelers & precious stone & metal workers",3,519071,36870.3,33396
+2014,"Medical, dental, & ophthalmic laboratory technicians",3,519080,35038.7,84639
+2015,"Medical, dental, & ophthalmic laboratory technicians",3,519080,34934.8,84627
+2014,"Packaging & filling machine operators & tenders",3,519111,24877.6,266707
+2015,"Packaging & filling machine operators & tenders",3,519111,25716.9,259215
+2014,"Painting workers",3,519120,35786.5,132608
+2015,"Painting workers",3,519120,36022,144193
+2014,"Photographic process workers & processing machine operators",3,519151,31784,35439
+2015,"Photographic process workers & processing machine operators",3,519151,34885.5,27649
+2014,"Adhesive bonding machine operators & tenders",3,519191,28557.1,8471
+2015,"Adhesive bonding machine operators & tenders",3,519191,31119.6,8202
+2014,"Etchers & engravers",3,519194,32194.9,8432
+2015,"Etchers & engravers",3,519194,32244,8261
+2014,"Molders, shapers, & casters, except metal & plastic",3,519195,33442.1,27913
+2015,"Molders, shapers, & casters, except metal & plastic",3,519195,36418.9,27794
+2014,"Paper goods machine setters, operators, & tenders",3,519196,34742.7,28190
+2015,"Paper goods machine setters, operators, & tenders",3,519196,36621.4,22452
+2014,"Tire builders",3,519197,48557.4,12980
+2015,"Tire builders",3,519197,44525.9,14750
+2014,"Helpersproduction workers",3,519198,22856,46998
+2015,"Helpersproduction workers",3,519198,24723.3,47627
+2014,"Miscellaneous production workers, including semiconductor processors",3,5191XX,33253.8,1200217
+2015,"Miscellaneous production workers, including semiconductor processors",3,5191XX,34892,1269238
+2014,"Transportation & Material Moving Occupations",1,530000,33904.4,8990510
+2015,"Transportation & Material Moving Occupations",1,530000,34724.1,9220646
+2014,"Supervisors of transportation & material moving workers",3,531000,51139,212841
+2015,"Supervisors of transportation & material moving workers",3,531000,50916,217238
+2014,"Transportation Occupations",2,531000-536000,40127.2,5211945
+2015,"Transportation Occupations",2,531000-536000,41184.8,5366014
+2014,"Aircraft pilots & flight engineers",3,532010,116347,140957
+2015,"Aircraft pilots & flight engineers",3,532010,118880,148762
+2014,"Air traffic controllers & airfield operations specialists",3,532020,82581.2,43306
+2015,"Air traffic controllers & airfield operations specialists",3,532020,84584.2,43466
+2014,"Flight attendants",3,532031,41888.4,96327
+2015,"Flight attendants",3,532031,43969.5,101944
+2014,"Ambulance drivers & attendants, except emergency medical technicians",3,533011,26819.3,16427
+2015,"Ambulance drivers & attendants, except emergency medical technicians",3,533011,26022.9,13127
+2014,"Bus drivers",3,533020,26482,573025
+2015,"Bus drivers",3,533020,27270,608347
+2014,"Driver/sales workers & truck drivers",3,533030,38695.6,3208799
+2015,"Driver/sales workers & truck drivers",3,533030,40001.3,3270484
+2014,"Taxi drivers & chauffeurs",3,533041,26268.3,305150
+2015,"Taxi drivers & chauffeurs",3,533041,25987.2,337666
+2014,"Motor vehicle operators, all other",3,533099,18629.4,47027
+2015,"Motor vehicle operators, all other",3,533099,18271.1,47903
+2014,"Locomotive engineers & operators",3,534010,77453.6,49869
+2015,"Locomotive engineers & operators",3,534010,82285.2,43338
+2014,"Railroad conductors & yardmasters",3,534031,65972.6,51442
+2015,"Railroad conductors & yardmasters",3,534031,66899.2,53841
+2014,"Subway, streetcar, & other rail transportation workers",3,5340XX,59681.8,16451
+2015,"Subway, streetcar, & other rail transportation workers",3,5340XX,53637.9,20147
+2014,"Ship & boat captains & operators",3,535020,68732.2,45657
+2015,"Ship & boat captains & operators",3,535020,73473.8,46130
+2014,"Sailors & marine oilers, & ship engineers",3,5350XX,45033.8,33556
+2015,"Sailors & marine oilers, & ship engineers",3,5350XX,47542,37862
+2014,"Parking lot attendants",3,536021,19790.4,90828
+2015,"Parking lot attendants",3,536021,21295.8,81544
+2014,"Automotive & watercraft service attendants-",3,536031,20400.4,98686
+2015,"Automotive & watercraft service attendants-",3,536031,19267.8,96259
+2014,"Transportation inspectors",3,536051,56598.2,46756
+2015,"Transportation inspectors",3,536051,57956.3,43837
+2014,"Transportation attendants, except flight attendants",3,536061,27410.6,19590
+2015,"Transportation attendants, except flight attendants",3,536061,24714.2,33737
+2014,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",3,5360XX,38047.1,23597
+2015,"Miscellaneous transportation workers, including bridge & lock tenders & traffic technicians",3,5360XX,44189.9,30041
+2014,"Material Moving Occupations",2,537000,25320.9,3778565
+2015,"Material Moving Occupations",2,537000,25730.3,3854632
+2014,"Crane & tower operators",3,537021,56829.7,64283
+2015,"Crane & tower operators",3,537021,63031.7,59004
+2014,"Dredge, excavating, & loading machine operators",3,537030,41624.4,27371
+2015,"Dredge, excavating, & loading machine operators",3,537030,39507.8,31337
+2014,"Industrial truck & tractor operators",3,537051,31403.7,541328
+2015,"Industrial truck & tractor operators",3,537051,31648,575932
+2014,"Cleaners of vehicles & equipment",3,537061,21308.1,354341
+2015,"Cleaners of vehicles & equipment",3,537061,20466.7,349602
+2014,"Laborers & freight, stock, & material movers, hand",3,537062,24806.1,2210901
+2015,"Laborers & freight, stock, & material movers, hand",3,537062,25376.6,2229704
+2014,"Machine feeders & offbearers",3,537063,27116.7,25367
+2015,"Machine feeders & offbearers",3,537063,22428.7,27954
+2014,"Packers & packagers, hand",3,537064,19348,467024
+2015,"Packers & packagers, hand",3,537064,20218.2,481124
+2014,"Pumping station operators",3,537070,55782.2,29184
+2015,"Pumping station operators",3,537070,54155.7,27415
+2014,"Refuse & recyclable material collectors",3,537081,28805.3,83787
+2015,"Refuse & recyclable material collectors",3,537081,28984.6,90007
+2014,"Conveyor operators & tenders, & hoist & winch operators",3,5370XX,40514.2,16110
+2015,"Conveyor operators & tenders, & hoist & winch operators",3,5370XX,40822.9,14740
+2014,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",3,5371XX,36912.5,50523
+2015,"Miscellaneous material moving workers, including mine shuttle car operators, & tank car, truck, & ship loaders",3,5371XX,37253.6,58154
+2014,"Military specific occupations",1,550000,43201.2,500849
+2015,"Military specific occupations",1,550000,44136.8,528001
+2014,"Military officer special & tactical operations leaders",3,551010,65836.5,34242
+2015,"Military officer special & tactical operations leaders",3,551010,66346.8,42483
+2014,"Firstline enlisted military supervisors",3,552010,58677.4,84215
+2015,"Firstline enlisted military supervisors",3,552010,59769.7,92975
+2014,"Military enlisted tactical operations & air/weapons specialists & crew members",3,553010,25949.4,152070
+2015,"Military enlisted tactical operations & air/weapons specialists & crew members",3,553010,26263.5,152227
+2014,"Military, rank not specified",3,559830,45567.9,230322
+2015,"Military, rank not specified",3,559830,45484,240316
