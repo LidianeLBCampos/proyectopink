@@ -1,20 +1,16 @@
 package domain;
 
-import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-
-@JsonPropertyOrder({ "year", "name", "level", "id", "avgSalary", "employees" })
-
 public class ProfessionalSalaries {
+	public static final String[] FILE_HEADER_MAPPING = { "year", "name", "level", "id", "avgSalary", "employees" };
 	public static final String COLLECTION_NAME = "professional_salaries";
+	
 	private String id;
-	@JsonDeserialize(contentAs = Integer.class)
 	private int year;
 	private String name;
 	private int level;
 	private double avgSalary;
 	private int employees;
-	
+
 	public ProfessionalSalaries() {
 		super();
 	}
