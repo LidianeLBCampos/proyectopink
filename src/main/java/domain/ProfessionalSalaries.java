@@ -64,4 +64,13 @@ public class ProfessionalSalaries {
 		this.employees = employees;
 	}
 
+	@Override
+	public String toString() {
+		return "ProfessionalSalaries [year=" + year + ", name=" + name + ", level=" + level + ", avgSalary=" + avgSalary
+				+ ", employees=" + employees + "]";
+	}
+	
+	
+	
+
 }
