@@ -10,8 +10,6 @@ public interface ProfessionalSalariesRepository {
 	
 	public ArrayList<ProfessionalSalaries> findByName(String name);
 	
-	public ProfessionalSalaries findAll();
-	
 	public void delete(ProfessionalSalaries professionalSalaries);
 	
 	public void update(ProfessionalSalaries professionalSalaries);
