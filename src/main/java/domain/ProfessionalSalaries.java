@@ -1,10 +1,9 @@
 package domain;
 
 public class ProfessionalSalaries {
-	public static final String[] FILE_HEADER_MAPPING = { "year", "name", "level", "id", "avgSalary", "employees" };
+	public static final String[] FILE_HEADER_MAPPING = { "year", "name", "level", "avgSalary", "employees" };
 	public static final String COLLECTION_NAME = "professional_salaries";
 	
-	private String id;
 	private int year;
 	private String name;
 	private int level;
@@ -15,23 +14,15 @@ public class ProfessionalSalaries {
 		super();
 	}
 
-	public ProfessionalSalaries(String id, int year, String name, int level, double avgSalary, int employees) {
+	public ProfessionalSalaries(int year, String name, int level, double avgSalary, int employees) {
 		super();
 		this.year = year;
 		this.name = name;
 		this.level = level;
-		this.id = id;
 		this.avgSalary = avgSalary;
 		this.employees = employees;
 	}
 
-	public String getId() {
-		return id;
-	}
-
-	public void setId(String id) {
-		this.id = id;
-	}
 
 	public int getYear() {
 		return year;
