@@ -24,7 +24,8 @@ public class Connection {
 	private static MongoDatabase getConnection() {
 		CodecRegistry pojoCodecRegistry = fromRegistries(MongoClient.getDefaultCodecRegistry(),
                 fromProviders(PojoCodecProvider.builder().automatic(true).build()));
-		mongoClient = new MongoClient(new ServerAddress(HOSTNAME, PORT), MongoClientOptions.builder().codecRegistry(pojoCodecRegistry).build());
+		mongoClient = new MongoClient(new ServerAddress(HOSTNAME, PORT), 
+				MongoClientOptions.builder().codecRegistry(pojoCodecRegistry).build());
 		return mongoClient.getDatabase(DATABASE_NAME);
 
 	}

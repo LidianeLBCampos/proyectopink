@@ -1,14 +1,8 @@
 package repository.impl;
 
-import java.io.LineNumberInputStream;
-import java.util.ArrayList;
+import java.util.Iterator;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.mongodb.MongoClient;
-import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoCursor;
 import com.mongodb.client.model.Filters;
 
 import domain.ProfessionalSalaries;
@@ -23,34 +17,34 @@ public class ProfessionalSalariesRepositoryImpl implements ProfessionalSalariesR
 		collection.insertOne(professionalSalaries);
 	}
 
-	public void findByName(String name) {
+	public Iterator<ProfessionalSalaries> findByName(String name) {
 		MongoCollection<ProfessionalSalaries> collection = Connection
 				.getCollection(ProfessionalSalaries.COLLECTION_NAME);
-		MongoCollection<ProfessionalSalaries> proSal = collection.withDocumentClass(ProfessionalSalaries.class);
-		MongoCursor<ProfessionalSalaries> cursor = proSal.find(Filters.eq("name", "Machine feeders & offbearers"))
-				.iterator();
+		return collection.find(Filters.eq("name", name)).iterator();
 
-		while (cursor.hasNext()) {
-			System.out.println(cursor.next().toString());
-		}
+	}
+
+	@Override
+	public ProfessionalSalaries findOneByNameAndYear(String name, int year) {
+		MongoCollection<ProfessionalSalaries> collection = Connection
+				.getCollection(ProfessionalSalaries.COLLECTION_NAME);
+		return collection.find(Filters.and(Filters.eq("name", name), Filters.eq("year", year))).first();
 	}
 
 	public void delete(ProfessionalSalaries professionalSalaries) {
 		MongoCollection<ProfessionalSalaries> collection = Connection
 				.getCollection(ProfessionalSalaries.COLLECTION_NAME);
-		collection.deleteOne(Filters.eq(professionalSalaries));
+		collection.deleteOne(Filters.eq("id", professionalSalaries.getId()));
 	}
 
-	public void update(ProfessionalSalaries professionalSalaries, ProfessionalSalaries newProf) {
+	public void update(ProfessionalSalaries oldProfSal, ProfessionalSalaries newProfSal) {
 		MongoCollection<ProfessionalSalaries> collection = Connection
 				.getCollection(ProfessionalSalaries.COLLECTION_NAME);
-		collection.findOneAndReplace(Filters.eq(professionalSalaries), newProf);
+		
+		System.out.println("\n\n\n" + collection.find(Filters.eq("_id", oldProfSal.getId())));
+
+		collection.findOneAndReplace(Filters.eq("_id", oldProfSal.getId()), newProfSal);
 
 	}
 
-	@Override
-	public void update(ProfessionalSalaries professionalSalaries) {
-		// TODO Auto-generated method stub
-
-	}
 }
