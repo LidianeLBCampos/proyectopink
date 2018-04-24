@@ -34,15 +34,12 @@ public class ProfessionalSalariesRepositoryImpl implements ProfessionalSalariesR
 	public void delete(ProfessionalSalaries professionalSalaries) {
 		MongoCollection<ProfessionalSalaries> collection = Connection
 				.getCollection(ProfessionalSalaries.COLLECTION_NAME);
-		collection.deleteOne(Filters.eq("id", professionalSalaries.getId()));
+		collection.deleteOne(Filters.eq("_id", professionalSalaries.getId()));
 	}
 
 	public void update(ProfessionalSalaries oldProfSal, ProfessionalSalaries newProfSal) {
 		MongoCollection<ProfessionalSalaries> collection = Connection
 				.getCollection(ProfessionalSalaries.COLLECTION_NAME);
-		
-		System.out.println("\n\n\n" + collection.find(Filters.eq("_id", oldProfSal.getId())));
-
 		collection.findOneAndReplace(Filters.eq("_id", oldProfSal.getId()), newProfSal);
 
 	}

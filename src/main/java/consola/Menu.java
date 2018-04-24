@@ -55,10 +55,12 @@ public class Menu {
 				System.out.println("Introduzca los datos");
 				System.out.println("Introduzca el año");
 				int yearCreate = input.nextInt();
+				input.nextLine();
 				System.out.println("Introduzca el nombre de la profesión");
-				String nameCreate = input.next();
+				String nameCreate = input.nextLine();
 				System.out.println("Introduzca nivel");
 				int level = input.nextInt();
+			
 				System.out.println("Introduzca la media anual del Salario");
 				double avgSalary = input.nextDouble();
 				System.out.println("Introduzca el numero de empleados registrados en este sector");
